@@ -54,7 +54,6 @@ function AllData() {
                 <p><strong>Email:</strong> {transaction.email}</p>
                 <p><strong>Type:</strong> {transaction.type}</p>
                 <p><strong>Amount:</strong> ${transaction.amount}</p>
-                <p><strong>Balance:</strong> ${transaction.balance}</p>
               </>
             }
           />
